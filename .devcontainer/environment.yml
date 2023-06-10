@@ -1,0 +1,18 @@
+name: base
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - ipykernel
+  - ipywidgets
+  - pylint
+  - pandas
+  - numpy
+  - matplotlib
+  - lxml
+  - seaborn
+  - statsmodels
+  - scipy
+  - patsy
+  - scikit-learn
+  - beautifulsoup4
